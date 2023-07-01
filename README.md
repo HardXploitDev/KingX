@@ -5,9 +5,9 @@
   </p>
   <br />
   <p>
-    <a href="https://github.com/EasyXploit/HelpBot/releases"><img src="https://img.shields.io/github/downloads/HardXploitDev/KingX/total
+    <a href="https://github.com/HardXploitDev/KingX/releases"><img src="https://img.shields.io/github/downloads/HardXploitDev/KingX/total
 " alt="Downloads" /></a>
-    <a href="https://github.com/EasyXploit/HelpBot/#license"><img src="https://img.shields.io/github/license/HardXploitDev/KingX
+    <a href="https://github.com/HardXploitDev/KingX/#license"><img src="https://img.shields.io/github/license/HardXploitDev/KingX
 " alt="License" /></a>
   </p>
 </div>
