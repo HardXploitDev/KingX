@@ -5,10 +5,8 @@
   </p>
   <br />
   <p>
-    <a href="https://github.com/HardXploitDev/KingX/releases"><img src="https://img.shields.io/github/downloads/HardXploitDev/KingX/total
-" alt="Downloads" /></a>
-    <a href="https://github.com/HardXploitDev/KingX/#license"><img src="https://img.shields.io/github/license/HardXploitDev/KingX
-" alt="License" /></a>
+    <a href="https://github.com/HardXploitDev/KingX/releases"><img src="https://img.shields.io/github/downloads/HardXploitDev/KingX/total" alt="Downloads" /></a>
+    <a href="https://github.com/HardXploitDev/KingX/#license"><img src="https://img.shields.io/github/license/HardXploitDev/KingX" alt="License" /></a>
   </p>
 </div>
 
